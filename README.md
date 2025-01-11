@@ -1,3 +1,5 @@
+**ML Algorithms:**
+
 Here's a comprehensive list of common machine learning algorithms, organized by category:
 
 ### *Supervised Learning:*
