@@ -94,3 +94,13 @@ Here's a comprehensive list of common machine learning algorithms, organized by 
 - *Anomaly Detection*
   - Isolation Forest
   - One-class SVM
+
+
+**Resources to learn Machine Learning**
+1. https://www.kaggle.com/      
+2. https://resources.nvidia.com/en-us-event-slides/free-courses
+3. https://www.geeksforgeeks.org/machine-learning/
+
+**ML Projects for Beginners**
+1. https://www.geeksforgeeks.org/machine-learning-projects/
+2. https://data-flair.training/blogs/machine-learning-project-ideas/
